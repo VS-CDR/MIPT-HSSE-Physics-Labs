@@ -1,5 +1,5 @@
 # MIPT-HSSE-Tasks
 
-MIPT HSSE "Digitalization of physical processes" laboratory works.
+A repository containing assignments in disciplines not directly related to programming.
 
-Лабораторные работы и программы по курсу "Цифровизация физических процессов".
+Репозиторий, содержащий задания по дисциплинам, напрямую не связанным с программированием.
